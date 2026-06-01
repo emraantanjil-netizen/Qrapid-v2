@@ -1,0 +1,6 @@
+{
+  "name": "QR Scanner",
+  "description": "A lightweight, modern, production-grade QR code scanner. Auto-scans instantaneously via camera with custom flashlight support, real-time result viewing, easy single-tap copying, and an offline local scan history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
